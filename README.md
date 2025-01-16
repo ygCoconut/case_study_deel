@@ -7,7 +7,7 @@
 - PDF: `Revenue Analytics Challenge 24h.pdf`
 
 ## Task 1:
-- Notebook: `case_study_.ipynb`
+- Notebook: `case_study.ipynb`
 - EDA: `eda_reports/`
 
 ## Task 2:
